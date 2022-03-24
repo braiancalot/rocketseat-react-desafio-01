@@ -15,10 +15,17 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## 🚀 Sobre o desafio
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Essa é uma aplicação onde o principal objetivo é gerenciar atividades a fazer. 
 
+<img src="https://i.imgur.com/9LHUETa.png"/>
+
+Este é um desafio para treinar um pouco mais sobre manipulação de estado no React.
+
+## 🎯 Objetivo
+
+Dado o template com o esqueleto da aplicação, implementar as seguintes funcionalidades: 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
