@@ -19,6 +19,7 @@
 
 Essa é uma aplicação onde o principal objetivo é gerenciar atividades a fazer. 
 
+colocar gif com resultado
 <img src="https://i.imgur.com/9LHUETa.png"/>
 
 Este é um desafio para treinar um pouco mais sobre manipulação de estado no React.
