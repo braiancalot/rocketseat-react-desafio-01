@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  Desafio 01: Conceitos do React
+🏆 Desafio 01: Conceitos do React
 </h3>
 
 <p align="center">
