@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Braian Calot-to.do-blue"/>
+  <img src="https://img.shields.io/badge/Made by-BraianCalot-blue"/>
   &nbsp;
   <img src="https://img.shields.io/github/license/braiancalot/rocketseat-react-desafio-01"/>
 </p>
