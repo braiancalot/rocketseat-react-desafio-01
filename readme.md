@@ -23,7 +23,6 @@
 
 *to.do* é uma aplicação onde seu principal objetivo é gerenciar atividades a fazer. 
 
-colocar gif com resultado
 <img src="https://i.imgur.com/9LHUETa.png"/>
 
 :dart: Para treinar um pouco mais a manipulação de estado no React, foi dado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
