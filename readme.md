@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#speech_balloon-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#rocket-como-executar">Como executar</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/github/license/braiancalot/rocketseat-react-desafio-01"/>
 </p>
 
-## :rocket: Sobre o desafio
+## :speech_balloon: Sobre o desafio
 
 *to.do* é uma aplicação onde seu principal objetivo é gerenciar atividades a fazer. 
 
