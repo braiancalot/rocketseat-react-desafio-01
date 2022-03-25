@@ -1,6 +1,4 @@
-<h2 align="center">
-  <img src="https://i.imgur.com/f1pikoQ.png"/>
-</h2>
+<img src="https://i.imgur.com/f1pikoQ.png"/>
 
 <h3 align="center">
 🏆 Desafio 01: Conceitos do React
