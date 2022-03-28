@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/f1pikoQ.png"/>
+![logo](https://user-images.githubusercontent.com/41172933/160193998-cb892ea9-6eb1-472d-aa97-539fc92ba8ed.png)
 
 <h3 align="center">
 🏆 Desafio 01: Conceitos do React
@@ -21,9 +21,13 @@
 
 *to.do* é uma aplicação onde seu principal objetivo é gerenciar atividades a fazer. 
 
-<img src="https://i.imgur.com/9LHUETa.png"/>
+<p align="center">
+  <img width="auto" src="https://user-images.githubusercontent.com/41172933/160209054-0cc586ec-f9d9-4645-a441-bf3a1a92e4a9.gif"/>
+</p>
 
-:dart: Para treinar um pouco mais a manipulação de estado no React, foi dado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
+</br>
+
+:dart: Para treinar um pouco mais a manipulação de estado no React, foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
@@ -35,14 +39,14 @@
 - Clone este repositório
 
 ```
-> git clone https://github.com/braiancalot/rocketseat-react-desafio-01
+git clone https://github.com/braiancalot/rocketseat-react-desafio-01
 ```
 
 </br>
 
 - Navegue até o diretório principal do projeto
 ```
-> cd rocketseat-react-desafio-01
+cd rocketseat-react-desafio-01
 ```
 
 </br>
@@ -58,6 +62,10 @@ yarn install
 ```
 yarn dev
 ```
+
+</br>
+
+- Acesse http://localhost:8080/ no seu navegador
 
 ## :computer: Tecnologias
 
